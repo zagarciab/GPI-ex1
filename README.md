@@ -1,4 +1,4 @@
 - Zaira Alejandra Garcia Bernal
-- Codigo; 20242452
+- Codigo; 202425452
 - Soy economista trabajo como consultora senior para entidades financieras, con enfoque en gestión integral de riesgos y transformación estratégica. Tengo experinecia en modelación de riesgos para cumplimiento regulatorio, aplicación de redes de riesgo con grafos y análisis de modelos de gobierno y estructuras organizacionales.
 - Inscribí el curso porque me interesa aprender herramientas tecnológicas para la gestión de proyectos y conocer lineamientos de buenas prácticas aplicadas a proyectos con gestión de datos.
